@@ -21,5 +21,5 @@ Now the aggregated tables is going to be classified. Much of our analysis is bas
 The detailed steps of the classification can be found in "classify.sql"
 
 ---
-<a name="myfootnote1">1</a>: Monitoring of CO2 emissions from passenger cars – Regulation (EU) 2019/631: [https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18)
+<sup><a name="myfootnote1">1</a></sup> Monitoring of CO2 emissions from passenger cars – Regulation (EU) 2019/631: [https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18](https://www.eea.europa.eu/data-and-maps/data/co2-cars-emission-18)
 
