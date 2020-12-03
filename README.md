@@ -1,5 +1,7 @@
 # Data analysis of the EEA "CO2 emissions from passenger cars" dataset
 
+*Final Analysis Report can be found here: https://act.gp/36wcMP8*
+
 every year the EEA releases the *"Monitoring of CO2 emissions from passenger cars – Regulation (EU) 2019/631"* dataset.<sup>[1](#myfootnote1)</sup>   
 It contains detailed data of each new car registered in the EU. The database starts with the year 2012 and has grown to be over 37 million datarows tall(and over 8GB of data). To make analysis easier and faster we introduce a method to aggregate the dataset. In this repository we document the aggregation steps. If you want to work with the current aggregated dataset (Provisional 2019), you can use the "aggregated-classified.tsv" Dataset provided within this repository. If you want to aggregate it yourself, you need to download the original datasets from the EEA website<sup>[1](#myfootnote1)</sup> and continue with the following steps:
 
